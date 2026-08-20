@@ -1,4 +1,4 @@
-package com.arr;
+
 
 import java.util.Scanner;
 
@@ -27,7 +27,7 @@ public class Move0ToLast {
 
 		Scanner sc = new Scanner(System.in);
 		int size;
-		System.out.println("Enter size of array");s
+		System.out.println("Enter size of array");
 		size = sc.nextInt();
 		int[] arr1 = new int[size];
 
